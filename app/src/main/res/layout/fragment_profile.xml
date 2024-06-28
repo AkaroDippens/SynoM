@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/avatar"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/user_avatar"
+        android:layout_marginBottom="16dp"
+        android:layout_gravity="center" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="8dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Логин:"
+            android:textSize="18sp"
+            android:layout_marginEnd="8dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:id="@+id/username_tv"
+            android:enabled="false"
+            android:background="@drawable/edittext_background"
+            android:text="AkaroDippens"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:padding="8dp"
+            android:inputType="textPersonName" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="8dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Почта:"
+            android:textSize="18sp"
+            android:layout_marginEnd="8dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:id="@+id/email_tv"
+            android:enabled="false"
+            android:background="@drawable/edittext_background"
+            android:text="mirzoev.nidzhat@mail.ru"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:padding="8dp"
+            android:inputType="textEmailAddress" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Пароль:"
+            android:textSize="18sp"
+            android:layout_marginEnd="8dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:id="@+id/password"
+            android:enabled="false"
+            android:background="@drawable/edittext_background"
+            android:text="examplePassword"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:padding="8dp"
+            android:inputType="textPassword" />
+    </LinearLayout>
+
+    <android.widget.Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_edit"
+        android:text="Изменить пароль"
+        android:layout_gravity="center"
+        android:background="@drawable/button_gray_background"
+        android:textColor="@color/white"
+        android:padding="8dp"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Синонимы"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="8dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Рекорд:"
+            android:textSize="18sp"
+            android:layout_marginEnd="8dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/synonym_record_tv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:enabled="false"
+            android:background="@drawable/edittext_background"
+            android:text="0"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:padding="8dp"
+            android:inputType="number" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Предложения"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="8dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Рекорд:"
+            android:textSize="18sp"
+            android:layout_marginEnd="8dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/definition_record_tv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:enabled="false"
+            android:background="@drawable/edittext_background"
+            android:text="0"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:padding="8dp"
+            android:inputType="number" />
+    </LinearLayout>
+
+    <android.widget.Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_exit"
+        android:text="Выйти"
+        android:layout_gravity="center"
+        android:background="@drawable/button_gray_background"
+        android:textColor="@color/white"
+        android:padding="8dp"
+        android:layout_marginTop="20dp" />
+
+</LinearLayout>

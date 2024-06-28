@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354957846709",
+    "project_id": "synomdb",
+    "storage_bucket": "synomdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354957846709:android:cad0cc4415e70fff2bf6fc",
+        "android_client_info": {
+          "package_name": "com.example.synomprojectkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxbcJRcYHNGVPMIOsiN0HeNz0BQoQXjXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2848 @@
+[
+  {
+    "id": "1",
+    "name": "abderites",
+    "definition": "see stupid"
+  },
+  {
+    "id": "2",
+    "name": "abdication",
+    "definition": "[renunciation; renunciation of the rank and power of a ruler, abdication of this title (Dal)] see refusal"
+  },
+  {
+    "id": "3",
+    "name": "paragraph",
+    "definition": "see part"
+  },
+  {
+    "id": "4",
+    "name": "enrollee",
+    "definition": "see student"
+  },
+  {
+    "id": "5",
+    "name": "Subscribe",
+    "definition": "Subscribe to a box, a chair. Subscribe to a box, an armchair, to read books in the library, subscribe to a magazine, subscribe to a newspaper. Wed. <Hire>. See hire",
+    "synonyms": {
+      "0": "hire",
+      "1": "rent (hire)",
+      "2": "hire",
+      "3": "rent"
+    },
+    "similars": {
+      "0": "hire"
+    }
+  },
+  {
+    "id": "6",
+    "name": "subscribe",
+    "definition": "see subscribe, hire, subscribe"
+  },
+  {
+    "id": "7",
+    "name": "boarding",
+    "definition": "see collision"
+  },
+  {
+    "id": "8",
+    "name": "aboriginal",
+    "definition": "see resident, native"
+  },
+  {
+    "id": "9",
+    "name": "abort",
+    "definition": "see give birth"
+  },
+  {
+    "id": "10",
+    "name": "abracadabra",
+    "definition": "see absurdity",
+    "synonyms": {
+      "0": "absurdity",
+      "1": "absurdity",
+      "2": "absurd",
+      "3": "nonsense",
+      "4": "nonsense",
+      "5": "ru",
+      "6": "nonsense",
+      "7": "nonsense",
+      "8": "game",
+      "9": "rubbish",
+      "10": "nonsense",
+      "11": "incongruity",
+      "12": "nonsense",
+      "13": "slaver",
+      "14": "roundabout",
+      "15": "nonsense",
+      "16": "nonsense",
+      "17": "soft-boiled boots"
+    }
+  },
+
+  {
+    "id": "eleven",
+    "name": "outline",
+    "definition": "see essay"
+  },
+
+  {
+    "id": "12",
+    "name": "absenteeism",
+    "definition": "[avoidance of visits related to the performance of smb. public duties (Ushakov)] see absence"
+  },
+
+  {
+    "id": "13",
+    "name": "Absolute",
+    "definition": "An absolute majority of votes means an advantage over the opposing party by at least one vote. Absolute weight. The absolute height of a place (i.e. its height above sea level). Wed. <Unconditional>. Prot. <Relative>. See unconditional, complete, independent",
+    "synonyms": {
+      "0": "full",
+      "1": "perfect",
+      "2": "irrelevant",
+      "3": "independent"
+    },
+    "antonyms": {
+      "0": "relative"
+    },
+    "similars": {
+      "0": "unconditional"
+    }
+  },
+
+  {
+    "id": "14",
+    "name": "abstract",
+    "definition": "see spiritual, abstract"
+  },
+
+  {
+    "id": "15",
+    "name": "absurd",
+    "definition": "see nonsense, absurdity",
+    "synonyms": {
+      "0": "absurdity",
+      "1": "absurdity",
+      "2": "nonsense",
+      "3": "nonsense",
+      "4": "rubbish",
+      "5": "nonsense",
+      "6": "nonsense",
+      "7": "game",
+      "8": "rubbish",
+      "9": "nonsense",
+      "10": "incongruity",
+      "11": "nonsense",
+      "12": "slaver",
+      "13": "roundabout",
+      "14": "nonsense",
+      "15": "nonsense",
+      "16": "abracadabra",
+      "17": "soft-boiled boots"
+    }
+  },
+
+  {
+    "id": "16",
+    "name": "abcug",
+    "definition": "|| first paragraph, from the first paragraph"
+  },
+
+  {
+    "id": "17",
+    "name": "abshid",
+    "definition": "[German Abschied resignation, dismissal] see dismissal"
+  },
+  {
+    "id": "18",
+    "name": "avant-garde",
+    "definition": "see army, front"
+  },
+
+  {
+    "id": "19",
+    "name": "prepaid expense",
+    "definition": "|| take in advance, take in advance"
+  },
+
+  {
+    "id": "20",
+    "name": "avantage",
+    "definition": "|| not to be found in avantage"
+  },
+
+  {
+    "id": "21",
+    "name": "avant-garde",
+    "definition": "see majestic, beautiful"
+  },
+
+  {
+    "id": "22",
+    "name": "adventure",
+    "definition": "see case || adventurer"
+  },
+
+  {
+    "id": "23",
+    "name": "Adventurer",
+    "definition": "(female born adventurer), adventurer (adventurer), tramp, rogue. Wed. <Tramp>. “We take tramps into the house and on tickets, so that we can teach our daughters everything.” Mushroom. See tramp",
+    "synonyms": {
+      "0": "adventuress",
+      "1": "seeker of adventures",
+      "2": "adventurer",
+      "3": "tramp",
+      "4": "rogue"
+    },
+    "similars": {
+      "0": "tramp"
+    }
+  },
+
+  {
+    "id": "24",
+    "name": "accident",
+    "definition": "see harm, failure"
+  },
+
+  {
+    "id": "25",
+    "name": "Augean",
+    "definition": "|| clean the Augean stables"
+  },
+
+  {
+    "id": "26",
+    "name": "augur",
+    "definition": "see predictor"
+  },
+
+  {
+    "id": "27",
+    "name": "maybe",
+    "definition": "|| at random, go at random"
+  },
+
+  {
+    "id": "28",
+    "name": "Abraham",
+    "definition": "|| go to the bosom of Abraham"
+  },
+
+  {
+    "id": "29",
+    "name": "authentic (authentic",
+    "definition": "see this",
+    "synonyms": {
+      "0": "otentichny)"
+    }
+  },
+
+  {
+    "id": "thirty",
+    "name": "autobiography",
+    "definition": "see biography"
+  },
+
+  {
+    "id": "31",
+    "name": "autocephalous",
+    "definition": "see independent",
+    "synonyms": {
+      "0": "autocratic"
+    }
+  },
+
+  {
+    "id": "32",
+    "name": "machine",
+    "definition": "see doll"
+  },
+
+  {
+    "id": "33",
+    "name": "automedon",
+    "definition": "see driver"
+  },
+
+  {
+    "id": "34",
+    "name": "autonomous",
+    "definition": "see independent"
+  },
+  {
+    "id": "35",
+    "name": "Author",
+    "definition": "Wed. <Writer>. See the culprit, the writer",
+    "synonyms": {
+      "0": "writer",
+      "1": "compiler",
+      "2": "writer",
+      "3": "compiler",
+      "4": "composer",
+      "5": "culprit",
+      "6": "creator"
+    },
+    "similars": {
+      "0": "writer"
+    }
+  },
+
+  {
+    "id": "36",
+    "name": "authorize (authorize)",
+    "definition": "see charge"
+  },
+
+  {
+    "id": "37",
+    "name": "Authority",
+    "definition": "The director enjoyed great authority. He is one of the first authorities in our science. Wed. Dignity and Expertise. See dignity, connoisseur, meaning, scholar",
+    "synonyms": {
+      "0": "meaning",
+      "1": "force",
+      "2": "weight",
+      "3": "competence",
+      "4": "competence",
+      "5": "prestige; connoisseur",
+      "6": "prestige",
+      "7": "connoisseur"
+    },
+    "similars": {
+      "0": "dignity",
+      "1": "connoisseur"
+    }
+  },
+
+  {
+    "id": "38",
+    "name": "authority figure",
+    "definition": "see connoisseur"
+  },
+
+  {
+    "id": "39",
+    "name": "authoritative",
+    "definition": "see weighty, authoritative, influential, strong"
+  },
+
+  {
+    "id": "40",
+    "name": "author",
+    "definition": "see compose"
+  },
+
+  {
+    "id": "41",
+    "name": "autochthon",
+    "definition": "see native"
+  },
+
+  {
+    "id": "42",
+    "name": "aggel",
+    "definition": "[evil spirit, devil, Satan (Dahl)] see demon"
+  },
+
+  {
+    "id": "43",
+    "name": "Agent",
+    "definition": "Police agent, detective, spy, provocateur. Insurance company agent. Contractor for accepting advertisements. Wed. <Mediator and Doer>. See doer, mediator",
+    "synonyms": {
+      "0": "representative",
+      "1": "authorized",
+      "2": "attorney",
+      "3": "detective",
+      "4": "filler",
+      "5": "provocateur"
+    },
+    "similars": {
+      "0": "intermediary",
+      "1": "figure"
+    }
+  },
+
+  {
+    "id": "44",
+    "name": "agitator",
+    "definition": "see instigator, rebel"
+  },
+
+  {
+    "id": "45",
+    "name": "agitation",
+    "definition": "see excitement"
+  },
+
+  {
+    "id": "46",
+    "name": "agitate",
+    "definition": "see excite"
+  },
+
+  {
+    "id": "47",
+    "name": "agony",
+    "definition": "see flour"
+  },
+  {
+    "id": "48",
+    "name": "Hell",
+    "definition": "(pitch), Gehenna (fire), pitch, hell, abyss, hell, purgatory, tartarus, kingdom of shadows (Pluto). Prot. <Paradise>. Wed. <Mess>. See clutter || absolute hell",
+    "synonyms": {
+      "0": "Gehenna",
+      "1": "pitch black",
+      "2": "underworld",
+      "3": "abyss",
+      "4": "inferno",
+      "5": "purgatory",
+      "6": "Tartarus",
+      "7": "The kingdom of shadows"
+    },
+    "antonyms": {
+      "0": "paradise"
+    },
+    "similars": {
+      "0": "mess"
+    }
+  },
+
+  {
+    "id": "49",
+    "name": "Adam",
+    "definition": "|| dressed as Adam"
+  },
+
+  {
+    "id": "50",
+    "name": "Advocate",
+    "definition": ": ablakat, woodcut); lawyer, lawyer, jurist. Wed. Defender. See defender",
+    "synonyms": {
+      "0": "solicitor",
+      "1": "defender",
+      "2": "(juror",
+      "3": "private) attorney",
+      "4": "intercessor; (jokingly",
+      "5": "juror",
+      "6": "private attorney",
+      "7": "intercessor",
+      "8": "ablakat (comic)",
+      "9": "woodcutter (comic)",
+      "10": "lawyer",
+      "11": "lawyer",
+      "12": "lawyer"
+    },
+    "similars": {
+      "0": "defender"
+    }
+  },
+
+  {
+    "id": "51",
+    "name": "adept",
+    "definition": "see student",
+    "synonyms": {
+      "0": "student",
+      "1": "pupil",
+      "2": "pet",
+      "3": "student",
+      "4": "student",
+      "5": "schoolboy",
+      "6": "enrollee",
+      "7": "high school student",
+      "8": "cadet",
+      "9": "lyceum student",
+      "10": "academician",
+      "11": "forester",
+      "12": "natural scientist",
+      "13": "mathematician",
+      "14": "pupil",
+      "15": "pupil",
+      "16": "pet",
+      "17": "schoolgirl",
+      "18": "schoolgirl",
+      "19": "student",
+      "20": "student",
+      "21": "follower",
+      "22": "imitator",
+      "23": "follower"
+    },
+    "similars": {
+      "0": "pupil"
+    }
+  },
+
+  {
+    "id": "52",
+    "name": "administrator",
+    "definition": "see ruler"
+  },
+
+  {
+    "id": "53",
+    "name": "administration",
+    "definition": "see power"
+  },
+
+  {
+    "id": "54",
+    "name": "Adonis",
+    "definition": "see beautiful"
+  },
+
+  {
+    "id": "55",
+    "name": "to address",
+    "definition": "see send, send"
+  },
+
+  {
+    "id": "56",
+    "name": "address",
+    "definition": "see heading"
+  },
+
+  {
+    "id": "57",
+    "name": "hellishly",
+    "definition": "see very"
+  },
+
+  {
+    "id": "58",
+    "name": "Hellish",
+    "definition": "Hellish torment. Hell of a life. Satanic pride. “The road is hellish: streams, snow, mud, waterholes...” Turgenev. “You know what a devilish service we have.” Potter. Prot. <Paradise>.",
+    "synonyms": {
+      "0": "unbearable",
+      "1": "convict",
+      "2": "diabolical",
+      "3": "Satanic",
+      "4": "anathema",
+      "5": "infernal"
+    },
+    "antonyms": {
+      "0": "heavenly"
+    }
+  },
+
+  {
+    "id": "59",
+    "name": "as much",
+    "definition": "see even"
+  },
+  {
+    "id": "60",
+    "name": "agio",
+    "definition": "see profit"
+  },
+
+  {
+    "id": "61",
+    "name": "agitation",
+    "definition": "see hotness"
+  },
+
+  {
+    "id": "62",
+    "name": "agitate",
+    "definition": "see worry"
+  },
+
+  {
+    "id": "63",
+    "name": "important",
+    "definition": "see even"
+  },
+
+  {
+    "id": "64",
+    "name": "az",
+    "definition": "see i || don't even know the basics"
+  },
+
+  {
+    "id": "65",
+    "name": "Excitement",
+    "definition": "Wed. <Heat>. Get excited, get carried away, get excited. See enthusiasm, ardor || get excited",
+    "synonyms": {
+      "0": "inspiration",
+      "1": "fervor",
+      "2": "enthusiasm",
+      "3": "frenzy",
+      "4": "rage"
+    },
+    "similars": {
+      "0": "hotness",
+      "1": "get excited",
+      "2": "get involved",
+      "3": "get excited"
+    }
+  },
+
+  {
+    "id": "66",
+    "name": "ABC",
+    "definition": "see beginning"
+  },
+
+  {
+    "id": "67",
+    "name": "alphabetical",
+    "definition": "see ordinary, simple",
+    "synonyms": {
+      "0": "simple",
+      "1": "artless",
+      "2": "unpretentious",
+      "3": "undemanding",
+      "4": "simple",
+      "5": "simple",
+      "6": "unpretentious",
+      "7": "simple",
+      "8": "natural",
+      "9": "unrefined",
+      "10": "casual",
+      "11": "everyday",
+      "12": "ordinary",
+      "13": "worldly",
+      "14": "bourgeois",
+      "15": "bourgeois",
+      "16": "elementary",
+      "17": "initial",
+      "18": "elementary"
+    },
+    "antonyms": {
+      "0": "difficult",
+      "1": "cunning"
+    },
+    "similars": {
+      "0": "rude",
+      "1": "naive"
+    }
+  },
+
+  {
+    "id": "68",
+    "name": "alphabet sign",
+    "definition": "see letter"
+  },
+
+  {
+    "id": "69",
+    "name": "Asian",
+    "definition": "see barbarian, savage",
+    "synonyms": {
+      "0": "barbarian",
+      "1": "vandal",
+      "2": "Savage",
+      "3": "uneducated",
+      "4": "uncouth",
+      "5": "uncivilized",
+      "6": "vakhlak",
+      "7": "boor",
+      "8": "troglodyte"
+    },
+    "antonyms": {
+      "0": "educated"
+    },
+    "similars": {
+      "0": "cruel",
+      "1": "rude"
+    }
+  },
+
+  {
+    "id": "70",
+    "name": "-aysh- (-eysh-)",
+    "definition": "see very"
+  },
+
+  {
+    "id": "71",
+    "name": "academician",
+    "definition": "see student"
+  },
+
+  {
+    "id": "72",
+    "name": "academic",
+    "definition": "see spiritual, abstract"
+  },
+
+  {
+    "id": "73",
+    "name": "Akathist",
+    "definition": "[prayers that can be listened to while standing, as opposed to kathismas, during the reading of which one was supposed to sit (Men)] see praise || sing akathists in smb. honor"
+  },
+
+  {
+    "id": "74",
+    "name": "watercolor",
+    "definition": "see picture"
+  },
+
+  {
+    "id": "75",
+    "name": "aquarium",
+    "definition": "see pool, room"
+  },
+
+  {
+    "id": "76",
+    "name": "aquilon",
+    "definition": "see the wind"
+  },
+
+  {
+    "id": "77",
+    "name": "Akim-simplicity",
+    "definition": "see naive"
+  },
+
+  {
+    "id": "78",
+    "name": "acclimatize",
+    "definition": "see get used to, adapt"
+  },
+
+  {
+    "id": "79",
+    "name": "accompaniment",
+    "definition": "see escort"
+  },
+
+  {
+    "id": "80",
+    "name": "accompany",
+    "definition": "see accompany"
+  },
+  {
+    "id": "81",
+    "name": "chord",
+    "definition": "see sound"
+  },
+
+  {
+    "id": "82",
+    "name": "exactly",
+    "definition": "see exact || keep it neat"
+  },
+
+  {
+    "id": "83",
+    "name": "accuracy",
+    "definition": "see fidelity, thoughtfulness, diligence",
+    "synonyms": {
+      "0": "loyalty",
+      "1": "constancy",
+      "2": "excerpt",
+      "3": "immutability",
+      "4": "hardness",
+      "5": "steadfastness",
+      "6": "care",
+      "7": "thriftiness",
+      "8": "honesty",
+      "9": "accuracy",
+      "10": "serviceability",
+      "11": "good faith"
+    },
+    "antonyms": {
+      "0": "perfidy"
+    }
+  },
+
+  {
+    "id": "84",
+    "name": "Careful",
+    "definition": "“And the baker, a neat German...” Pushk. A good servant. Pedant, formalist. Prot. <Careless>. See caring, precise",
+    "synonyms": {
+      "0": "serviceable",
+      "1": "executive",
+      "2": "щепетильный",
+      "3": "точный",
+      "4": "тщательный",
+      "5": "корректный",
+      "6": "пунктуальный",
+      "7": "скрупулезный",
+      "8": "педантичный",
+      "9": "неукоснительный"
+    },
+    "antonyms": {
+      "0": "небрежный"
+    }
+  },
+
+  {
+    "id": "85",
+    "name": "акробат",
+    "definition": "см. актер"
+  },
+
+  {
+    "id": "86",
+    "name": "аксессуар",
+    "definition": "см. побочный, принадлежность"
+  },
+
+  {
+    "id": "87",
+    "name": "аксессуары",
+    "definition": "см. обстановка"
+  },
+
+  {
+    "id": "88",
+    "name": "аксиома",
+    "definition": "см. истина",
+    "synonyms": {
+      "0": "истина",
+      "1": "правда"
+    },
+    "antonyms": {
+      "0": "ложь"
+    }
+  },
+
+  {
+    "id": "89",
+    "name": "акт",
+    "definition": "см. действие, документ, свидетельство",
+    "synonyms": {
+      "0": "действие",
+      "1": "деяние",
+      "2": "подвиг",
+      "3": "поступок",
+      "4": "выходка",
+      "5": "шаг",
+      "6": "маневр",
+      "7": "манипуляция",
+      "8": "махинация",
+      "9": "операция",
+      "10": "процедура",
+      "11": "процесс",
+      "12": "делание",
+      "13": "дело",
+      "14": "выделка",
+      "15": "изготовление",
+      "16": "приготовление",
+      "17": "выполнение",
+      "18": "исполнение",
+      "19": "осуществление",
+      "20": "реализация",
+      "21": "производство",
+      "22": "фабрикация",
+      "23": "впечатление",
+      "24": "эффект",
+      "25": "документ",
+      "26": "бумага",
+      "27": "грамота"
+    },
+    "similars": {
+      "0": "влияние"
+    }
+  },
+
+  {
+    "id": "90",
+    "name": "Актер",
+    "definition": "Ж. р. актриса. См. лицемер",
+    "synonyms": {
+      "0": "артист (сценический)",
+      "1": "лицедей",
+      "2": "комедиант",
+      "3": "скоморох; гастролер; (амплуа: инженю",
+      "4": "первый любовник",
+      "5": "комик",
+      "6": "трагик",
+      "7": "резонер",
+      "8": "статист",
+      "9": "фигурант",
+      "10": "клоун",
+      "11": "гимнаст",
+      "12": "акробат)",
+      "13": "актриса (жен.)",
+      "14": "артист",
+      "15": "скоморох",
+      "16": "гастролер",
+      "17": "инженю",
+      "18": "акробат"
+    },
+    "similars": {
+      "0": "лицедей"
+    }
+  },
+
+  {
+    "id": "91",
+    "name": "актерствовать",
+    "definition": "см. притворяться"
+  },
+
+  {
+    "id": "92",
+    "name": "актив",
+    "definition": "см. имущество"
+  },
+  {
+    "id": "93",
+    "name": "Акушерка",
+    "definition": "(м. р. акушер), повитуха, повивальщица, повивальная бабка. \"Царь египетский призвал повивальных бабок и сказал им\". Исх. 1, 18. См. повитуха",
+    "synonyms": {
+      "0": "акушер (муж.)",
+      "1": "повитуха",
+      "2": "повивальщица",
+      "3": "повивальная бабка"
+    }
+  },
+
+  {
+    "id": "94",
+    "name": "акцент",
+    "definition": "см. выговор"
+  },
+
+  {
+    "id": "95",
+    "name": "акциз",
+    "definition": "см. налог"
+  },
+
+  {
+    "id": "96",
+    "name": "алармистский",
+    "definition": "см. тревожный"
+  },
+  {
+    "id": "97",
+    "name": "Александр Македонский герой",
+    "definition": "см. увлекаться",
+    "synonyms": {
+      "0": "но зачем же стулья ломать"
+    }
+  },
+
+  {
+    "id": "98",
+    "name": "алеть",
+    "definition": "см. краснеть"
+  },
+
+  {
+    "id": "99",
+    "name": "алё-машир",
+    "definition": "[искаженное фр. allons идем (?), нем. marschieren идти (?)] см. уходить"
+  },
+
+  {
+    "id": "100",
+    "name": "алкать",
+    "definition": "см. желать"
+  },
+
+  {
+    "id": "101",
+    "name": "Алкоголик",
+    "definition": "См. пьяный",
+    "synonyms": {
+      "0": "пьяница",
+      "1": "пропойца"
+    }
+  },
+
+  {
+    "id": "102",
+    "name": "Аллах",
+    "definition": "см. бог"
+  },
+
+  {
+    "id": "103",
+    "name": "аллегория",
+    "definition": "см. басня, намек, пример",
+    "synonyms": {
+      "0": "басня",
+      "1": "побасенка",
+      "2": "миф",
+      "3": "притча во языцех",
+      "4": "пример",
+      "5": "образец",
+      "6": "образчик",
+      "7": "модель",
+      "8": "первообраз",
+      "9": "прообраз",
+      "10": "прототип",
+      "11": "сравнение",
+      "12": "притча",
+      "13": "иносказание",
+      "14": "метафора",
+      "15": "метонимия",
+      "16": "парабола",
+      "17": "троп",
+      "18": "фигура",
+      "19": "иллюстрация",
+      "20": "объяснение",
+      "21": "намек",
+      "22": "знак",
+      "23": "указание",
+      "24": "инсинуация",
+      "25": "символ",
+      "26": "двусмысленность",
+      "27": "недомолвка",
+      "28": "обиняк",
+      "29": "экивок"
+    },
+    "similars": {
+      "0": "пример",
+      "1": "анекдот",
+      "2": "сказка",
+      "3": "намек",
+      "4": "басня",
+      "5": "сказка",
+      "6": "знак"
+    }
+  },
+
+  {
+    "id": "104",
+    "name": "аллея",
+    "definition": "см. дорога, улица"
+  },
+
+  {
+    "id": "105",
+    "name": "аллокуция",
+    "definition": "[лат. allocutio обращение с речью, слова ободрения, утешения] см. речь"
+  },
+
+  {
+    "id": "106",
+    "name": "Аллюр",
+    "definition": "(Аллюры: шаг, рысь, рысца, галоп, карьер, иноходь, трусца). Ходить вольным аллюром. \"Побежка их (лошадей) напоминает ухарскую походку бойкого полового\". Тург. \"[Лошадь] пошла щепотким, укрощенным шагом\". Тург. См. походка",
+    "synonyms": {
+      "0": "шаг",
+      "1": "ход",
+      "2": "походка",
+      "3": "бег",
+      "4": "побежка; хода",
+      "5": "ступа",
+      "6": "побежка",
+      "7": "хода",
+      "8": "рысь",
+      "9": "рысца",
+      "10": "галоп",
+      "11": "карьер",
+      "12": "иноходь",
+      "13": "трусца"
+    }
+  },
+
+  {
+    "id": "107",
+    "name": "алмаз",
+    "definition": "см. драгоценность"
+  },
+
+  {
+    "id": "108",
+    "name": "алтарь",
+    "definition": "|| служитель алтаря"
+  },
+
+  {
+    "id": "109",
+    "name": "алтынник",
+    "definition": "[корыстник, мелочный и низкий взяточник (Даль, алтын)] см. взяточник, подкупной; [скупец, скряга, крохобор (Даль, алтын)] см. скупой"
+  },
+
+  {
+    "id": "110",
+    "name": "алчность",
+    "definition": "[в форме алкание, алкота, алчба -- голод, голодание (Даль, алкать)] см. голод, желание, корыстолюбие",
+    "synonyms": {
+      "0": "желание"
+    }
+  },
+
+  {
+    "id": "111",
+    "name": "алчный",
+    "definition": "см. жадный, корыстолюбивый, любитель"
+  },
+
+  {
+    "id": "112",
+    "name": "алчущий",
+    "definition": "см. голодный"
+  },
+
+  {
+    "id": "113",
+    "name": "алый",
+    "definition": "см. красный",
+    "synonyms": {
+      "0": "красный",
+      "1": "багряный",
+      "2": "червленый",
+      "3": "пурпуровый",
+      "4": "багровый",
+      "5": "пунцовый",
+      "6": "малиновый",
+      "7": "румяный",
+      "8": "рыжий",
+      "9": "розовый",
+      "10": "коричневый"
+    }
+  },
+
+  {
+    "id": "114",
+    "name": "аль",
+    "definition": "см. разве"
+  },
+
+  {
+    "id": "115",
+    "name": "альбом",
+    "definition": "см. книга"
+  },
+
+  {
+    "id": "116",
+    "name": "альковный",
+    "definition": "см. любовный"
+  },
+
+  {
+    "id": "117",
+    "name": "альманах",
+    "definition": "см. календарь, книга"
+  },
+
+  {
+    "id": "118",
+    "name": "альт",
+    "definition": "см. голос"
+  },
+
+  {
+    "id": "119",
+    "name": "альтернатива",
+    "definition": "см. вопрос, выбор, задача",
+    "synonyms": {
+      "0": "выбор",
+      "1": "избрание",
+      "2": "отбор",
+      "3": "подбор",
+      "4": "сортировка"
+    }
+  },
+
+  {
+    "id": "120",
+    "name": "альфа и омега",
+    "definition": "см. конец, начало"
+  },
+
+  {
+    "id": "121",
+    "name": "аляповатый",
+    "definition": "см. безобразный, грубый, некрасивый",
+    "synonyms": {
+      "0": "безобразный",
+      "1": "некрасивый",
+      "2": "уродливый",
+      "3": "невзрачный",
+      "4": "плюгавый",
+      "5": "неказистый",
+      "6": "неприглядный",
+      "7": "неуклюжий",
+      "8": "нескладный",
+      "9": "лубочный",
+      "10": "безвкусный",
+      "11": "неприличный"
+    },
+    "antonyms": {
+      "0": "красивый"
+    },
+    "similars": {
+      "0": "грубый"
+    }
+  },
+
+  {
+    "id": "122",
+    "name": "амальгама",
+    "definition": "см. смесь"
+  },
+  {
+    "id": "123",
+    "name": "аматер",
+    "definition": "[фр. amateur] см. любитель"
+  },
+
+  {
+    "id": "124",
+    "name": "амбар",
+    "definition": "см. депо, здание"
+  },
+  {
+    "id": "125",
+    "name": "амбиция",
+    "definition": "see pride, dignity, touchiness || break into ambition"
+  },
+
+  {
+    "id": "126",
+    "name": "ambergris",
+    "definition": "see incense, smell"
+  },
+
+  {
+    "id": "127",
+    "name": "outpatient clinic",
+    "definition": "see hospital"
+  },
+
+  {
+    "id": "128",
+    "name": "ambrosia",
+    "definition": "see food"
+  },
+
+  {
+    "id": "129",
+    "name": "America",
+    "definition": "|| discover America"
+  },
+
+  {
+    "id": "130",
+    "name": "Amikochonian",
+    "definition": "see free"
+  },
+
+  {
+    "id": "131",
+    "name": "bonhomie",
+    "definition": "see friendship"
+  },
+
+  {
+    "id": "132",
+    "name": "Amen",
+    "definition": "see enough, end"
+  },
+
+  {
+    "id": "133",
+    "name": "amnesty",
+    "definition": "see forgiveness"
+  },
+
+  {
+    "id": "134",
+    "name": "depreciation",
+    "definition": "see retribution"
+  },
+
+  {
+    "id": "135",
+    "name": "debt amortization",
+    "definition": "see fee, pay"
+  },
+  {
+    "id": "136",
+    "name": "role",
+    "definition": "see lesson"
+  },
+
+  {
+    "id": "137",
+    "name": "amposhe",
+    "definition": "[fr. empocher put in pocket, get, snatch] see steal"
+  },
+
+  {
+    "id": "138",
+    "name": "Amulet",
+    "definition": "<Keep my talisman, it has mysterious power>. Push. See amulet, talisman",
+    "synonyms": {
+      "0": "amulet",
+      "1": "mascot"
+    }
+  },
+
+  {
+    "id": "139",
+    "name": "ammunition",
+    "definition": "see the situation"
+  },
+  {
+    "id": "140",
+    "name": "Amur",
+    "definition": "see beautiful, love"
+  },
+
+  {
+    "id": "141",
+    "name": "amorous",
+    "definition": "see love"
+  },
+
+  {
+    "id": "142",
+    "name": "Amphitryon",
+    "definition": "[on behalf of the mythological king of Thebes Amphitryon, the hero of the works of Plautus and Moliere, in which he is brought out as a hospitable host (SSLR)] see hospitable"
+  },
+
+  {
+    "id": "143",
+    "name": "Analysis",
+    "definition": "Wed. <Test>. Grammatical analysis. Logical analysis. Prot. <Synthesis>. See test || to analyze, to analyze",
+    "synonyms": {
+      "0": "decomposition",
+      "1": "parsing",
+      "2": "investigation"
+    },
+    "antonyms": {
+      "0": "synthesis"
+    },
+    "similars": {
+      "0": "trial"
+    }
+  },
+
+  {
+    "id": "144",
+    "name": "Analyze",
+    "definition": "Wed. <Test>. See testing",
+    "synonyms": {
+      "0": "decompose",
+      "1": "disassemble",
+      "2": "research",
+      "3": "carry out analysis"
+    },
+    "similars": {
+      "0": "test"
+    }
+  },
+
+  {
+    "id": "145",
+    "name": "similarity",
+    "definition": "see analogy, correspondence, similarity"
+  },
+
+  {
+    "id": "146",
+    "name": "similar",
+    "definition": "see similar",
+    "synonyms": {
+      "0": "like",
+      "1": "similar",
+      "2": "similar",
+      "3": "similar",
+      "4": "similar",
+      "5": "close",
+      "6": "suitable",
+      "7": "same",
+      "8": "same",
+      "9": "equal",
+      "10": "accurate"
+    },
+    "antonyms": {
+      "0": "different"
+    },
+    "similars": {
+      "0": "How",
+      "1": "same"
+    }
+  },
+
+  {
+    "id": "147",
+    "name": "Analogy",
+    "definition": "Wed. <Similarity>. See correspondence, similarity",
+    "synonyms": {
+      "0": "similarity",
+      "1": "correspondence",
+      "2": "ratio"
+    },
+    "similars": {
+      "0": "similarity"
+    }
+  },
+
+  {
+    "id": "148",
+    "name": "Ananya",
+    "definition": "|| in people there is Ananya, and at home the rascal"
+  },
+
+  {
+    "id": "149",
+    "name": "dissect",
+    "definition": "see disassemble"
+  },
+
+  {
+    "id": "150",
+    "name": "anathema",
+    "definition": "see curse || anathematize"
+  },
+  {
+    "id": "151",
+    "name": "anathematize",
+    "definition": "see curse"
+  },
+  {
+    "id": "152",
+    "name": "anathema",
+    "definition": "see hellish"
+  },
+
+  {
+    "id": "153",
+    "name": "anathematize",
+    "definition": "see curse"
+  },
+
+  {
+    "id": "154",
+    "name": "anchorite",
+    "definition": "see ascetic"
+  },
+
+  {
+    "id": "155",
+    "name": "Angel",
+    "definition": "). Prot. <Devil, Demon>. See apogee, exemplary",
+    "synonyms": {
+      "0": "Seraphim",
+      "1": "Cherub",
+      "2": "Guardian angel",
+      "3": "Archangel Michael",
+      "4": "Gabriel",
+      "5": "Rafail and others",
+      "6": "Seraphim",
+      "7": "cherub",
+      "8": "Guardian angel",
+      "9": "archangel"
+    },
+    "antonyms": {
+      "0": "devil",
+      "1": "demon"
+    }
+  },
+
+  {
+    "id": "156",
+    "name": "Angel in the flesh",
+    "definition": "see kind"
+  },
+
+  {
+    "id": "157",
+    "name": "Guardian angel",
+    "definition": "see angel"
+  },
+
+  {
+    "id": "158",
+    "name": "angels sing in my soul",
+    "definition": "see rejoice"
+  },
+
+  {
+    "id": "159",
+    "name": "angelic",
+    "definition": "see harmless, meek || accept the angelic image, accept the angelic rank",
+    "synonyms": {
+      "0": "Kind",
+      "1": "good",
+      "2": "virtuous",
+      "3": "valiant",
+      "4": "good-natured",
+      "5": "complacent",
+      "6": "kind-hearted",
+      "7": "humane",
+      "8": "humane",
+      "9": "soulful",
+      "10": "compassionate",
+      "11": "cordial",
+      "12": "responsive",
+      "13": "sensitive",
+      "14": "tolerant",
+      "15": "tolerant",
+      "16": "good-natured",
+      "17": "soul-man",
+      "18": "Golden heart",
+      "19": "harmless",
+      "20": "just",
+      "21": "fair",
+      "22": "righteous"
+    },
+    "antonyms": {
+      "0": "wicked"
+    },
+    "similars": {
+      "0": "merciful",
+      "1": "good",
+      "2": "fair",
+      "3": "gentle"
+    }
+  },
+
+  {
+    "id": "160",
+    "name": "Androns are traveling",
+    "definition": "[said when someone inappropriately puts on airs and pouts (Dal, andrec)] see absurdity"
+  },
+
+  {
+    "id": "161",
+    "name": "Joke",
+    "definition": "Tell jokes. <As you wish, take this as truth or as an anecdote>. Wed. <Fairy tale>. See fiction, fairy tale",
+    "synonyms": {
+      "0": "story",
+      "1": "fable",
+      "2": "myth",
+      "3": "fiction"
+    },
+    "similars": {
+      "0": "fairy tale"
+    }
+  },
+
+  {
+    "id": "162",
+    "name": "anemic",
+    "definition": "see sick"
+  },
+
+  {
+    "id": "163",
+    "name": "annals",
+    "definition": "see history, chronicle"
+  },
+
+  {
+    "id": "164",
+    "name": "annex",
+    "definition": "see steal"
+  },
+
+  {
+    "id": "165",
+    "name": "cancel",
+    "definition": "see destroy"
+  },
+
+  {
+    "id": "166",
+    "name": "Anomaly",
+    "definition": "Painful avoidance. Wed. <Disadvantage>. See flaw, incorrectness, error",
+    "synonyms": {
+      "0": "wrong",
+      "1": "retreat",
+      "2": "evasion",
+      "3": "ugliness",
+      "4": "weirdness"
+    },
+    "similars": {
+      "0": "flaw"
+    }
+  },
+
+  {
+    "id": "167",
+    "name": "anonymous",
+    "definition": "see unknown"
+  },
+
+  {
+    "id": "168",
+    "name": "announcement",
+    "definition": "see ad"
+  },
+
+  {
+    "id": "169",
+    "name": "ensemble",
+    "definition": "see consent"
+  },
+
+  {
+    "id": "170",
+    "name": "Antagonism",
+    "definition": "<There is real antagonism between them>. See feud",
+    "synonyms": {
+      "0": "enmity",
+      "1": "rivalry",
+      "2": "dislike",
+      "3": "opposition",
+      "4": "dislike",
+      "5": "ill will"
+    }
+  },
+
+  {
+    "id": "171",
+    "name": "antagonist",
+    "definition": "see enemy"
+  },
+
+  {
+    "id": "172",
+    "name": "antecedent",
+    "definition": "see previous"
+  },
+
+  {
+    "id": "173",
+    "name": "anti-",
+    "definition": "see enemy, hostile, opposite"
+  },
+
+  {
+    "id": "174",
+    "name": "antique",
+    "definition": "[a monument of ancient art that has survived to us; an antique or rare piece of art; everything is ancient, bearing the imprint of antiquity (Ushakov)] see rarity, eccentric"
+  },
+
+  {
+    "id": "175",
+    "name": "antimony",
+    "definition": "|| create antimony"
+  },
+
+  {
+    "id": "176",
+    "name": "antipathy",
+    "definition": "see disgust",
+    "synonyms": {
+      "0": "disgust",
+      "1": "disgust",
+      "2": "disgust",
+      "3": "dislike",
+      "4": "hatred",
+      "5": "dislike",
+      "6": "dislike",
+      "7": "disgust"
+    },
+    "antonyms": {
+      "0": "sympathy"
+    },
+    "similars": {
+      "0": "unpleasant",
+      "1": "enmity"
+    }
+  },
+
+  {
+    "id": "177",
+    "name": "antipode",
+    "definition": "see opposite",
+    "synonyms": {
+      "0": "antithesis"
+    }
+  },
+
+  {
+    "id": "178",
+    "name": "antiphon",
+    "definition": "[a short verse from the psalms, which is sung first in one choir and then repeated in another (Dal)] see prayer"
+  },
+  {
+    "id": "179",
+    "name": "antique",
+    "definition": "see exemplary"
+  },
+  {
+    "id": "180",
+    "name": "Anthony",
+    "definition": "|| sit on St. Anthony's food"
+  },
+
+  {
+    "id": "181",
+    "name": "Intermission",
+    "definition": "Wed. <Rest>. See stop",
+    "synonyms": {
+      "0": "break",
+      "1": "respite",
+      "2": "stop (interval between acts of a theatrical performance)",
+      "3": "stop"
+    },
+    "similars": {
+      "0": "rest"
+    }
+  },
+
+  {
+    "id": "182",
+    "name": "anthropophage",
+    "definition": "see savage"
+  },
+
+  {
+    "id": "183",
+    "name": "full house",
+    "definition": "see ad"
+  },
+
+  {
+    "id": "184",
+    "name": "aparansas",
+    "definition": "|| observe aparansas"
+  },
+
+  {
+    "id": "185",
+    "name": "apartment",
+    "definition": "see room"
+  },
+
+  {
+    "id": "186",
+    "name": "apathetic",
+    "definition": "see dispassionate, sluggish, lazy",
+    "synonyms": {
+      "0": "impassive",
+      "1": "indifferent",
+      "2": "insensitive",
+      "3": "soulless",
+      "4": "indifferent",
+      "5": "cold-blooded",
+      "6": "cold",
+      "7": "insensitive",
+      "8": "dull",
+      "9": "dry",
+      "10": "balanced",
+      "11": "self-controlled",
+      "12": "uninterested"
+    },
+    "antonyms": {
+      "0": "hot"
+    },
+    "similars": {
+      "0": "lazy"
+    }
+  },
+
+  {
+    "id": "187",
+    "name": "apathy",
+    "definition": "see laziness"
+  },
+  {
+    "id": "188",
+    "name": "appeal",
+    "definition": "see complain, direct"
+  },
+
+  {
+    "id": "189",
+    "name": "appeal",
+    "definition": "see complaint"
+  },
+
+  {
+    "id": "190",
+    "name": "orange",
+    "definition": "|| like a pig in oranges"
+  },
+
+  {
+    "id": "191",
+    "name": "Applaud",
+    "definition": "\"She hits and praises in the palm of her hand.\" Fluff.",
+    "synonyms": {
+      "0": "applaud",
+      "1": "clap",
+      "2": "beat in the palms (palms)",
+      "3": "clap your hands"
+    }
+  },
+
+  {
+    "id": "192",
+    "name": "aplomb",
+    "definition": "see dignity || with aplomb"
+  },
+
+  {
+    "id": "193",
+    "name": "Apogee",
+    "definition": "Reached the apogee (zenith) of his fame. \"The outrage has reached its peak.\" Salt. The excitement reached its highest point among engineers. This shows to what Herculean pillars human impudence can reach. Wed. expressions: the height of perfection, bliss, madness; angel of kindness, meekness, innocence; the height of the war, the collapse of the fair. See supreme",
+    "synonyms": {
+      "0": "top",
+      "1": "vertex",
+      "2": "highest degree",
+      "3": "highest point",
+      "4": "zenith",
+      "5": "climax",
+      "6": "pillars of Hercules",
+      "7": "extreme",
+      "8": "limit",
+      "9": "maximum"
+    }
+  },
+
+  {
+    "id": "194",
+    "name": "apodictic",
+    "definition": "[convincing, clear, understandable, short and positive, not allowing for dispute, objections, doubts (Dal)] see evidentiary, edifying"
+  },
+
+  {
+    "id": "195",
+    "name": "apocryphal",
+    "definition": "see fictitious, imaginary"
+  },
+
+  {
+    "id": "196",
+    "name": "Apollo",
+    "definition": "see god"
+  },
+
+  {
+    "id": "197",
+    "name": "apologist",
+    "definition": "see defender"
+  },
+
+  {
+    "id": "198",
+    "name": "apology",
+    "definition": "see protection"
+  },
+
+  {
+    "id": "199",
+    "name": "apostle",
+    "definition": "see newsletter"
+  },
+
+  {
+    "id": "200",
+    "name": "apostrophe",
+    "definition": "[apostrophe: a rhetorical figure when the speaker addresses a person or object, as if talking to them (Dahl)] see talk"
+  },
+  {
+    "id": "201",
+    "name": "apothegm",
+    "definition": "[short witty saying (Dal, apotheosis)] see aphorism, saying"
+  },
+
+  {
+    "id": "202",
+    "name": "apotheosis",
+    "definition": "see praise"
+  },
+
+  {
+    "id": "203",
+    "name": "apparatus",
+    "definition": "see instrument, furnishings, instrument"
+  },
+
+  {
+    "id": "204",
+    "name": "appetite",
+    "definition": "see hunger, desire",
+    "synonyms": {
+      "0": "wish",
+      "1": "will",
+      "2": "wanting",
+      "3": "hunting",
+      "4": "readiness",
+      "5": "thirst",
+      "6": "greed",
+      "7": "lust",
+      "8": "lust",
+      "9": "impatience",
+      "10": "itching",
+      "11": "sverbezh",
+      "12": "pursuit",
+      "13": "attraction",
+      "14": "rush",
+      "15": "urge",
+      "16": "chase",
+      "17": "demand",
+      "18": "trend"
+    },
+    "antonyms": {
+      "0": "reluctance"
+    },
+    "similars": {
+      "0": "intention",
+      "1": "selfishness",
+      "2": "Love",
+      "3": "attempt"
+    }
+  },
+
+  {
+    "id": "205",
+    "name": "appetizing",
+    "definition": "see tasty, attractive",
+    "synonyms": {
+      "0": "delicious",
+      "1": "tasty",
+      "2": "tastes good",
+      "3": "savory",
+      "4": "juicy",
+      "5": "sweet"
+    }
+  },
+
+  {
+    "id": "206",
+    "name": "aprosh",
+    "definition": "[fr. approche (usually pl.) approaches, maneuvers, intrigues] see cunning"
+  },
+
+  {
+    "id": "207",
+    "name": "pharmaceutical",
+    "definition": "see dear"
+  },
+
+  {
+    "id": "208",
+    "name": "arabesque",
+    "definition": "[patterned ornament of stylized leaves, flowers, geometric figures (Ushakov)] see drawing, decoration"
+  },
+  {
+    "id": "209",
+    "name": "Arab",
+    "definition": "|| stare arab squirrels"
+  },
+
+  {
+    "id": "210",
+    "name": "Arapnik",
+    "definition": "Wed. <Scourge>. To whip, to whip, to flog. See scourge",
+    "synonyms": {
+      "0": "scourge",
+      "1": "whip",
+      "2": "whip",
+      "3": "whip"
+    },
+    "similars": {
+      "0": "scourge"
+    }
+  },
+
+  {
+    "id": "211",
+    "name": "watermelon",
+    "definition": "|| bring a watermelon"
+  },
+
+  {
+    "id": "212",
+    "name": "argamak",
+    "definition": "[высокий, худощавый и неуклюжий человек (Даль)] см. рослый"
+  },
+
+  {
+    "id": "213",
+    "name": "Аргумент",
+    "definition": "Ср. <Доказательство>. \"Аргумент экономический, аргумент патриотический...\" Некр. (Ср. Argumentum baculinum -- убеждение посредством палки, Argumentum ad crumenam -- убеждение посредством кошелька). См. доказательство",
+    "synonyms": {
+      "0": "довод",
+      "1": "доказательство",
+      "2": "соображение",
+      "3": "основание",
+      "4": "резон"
+    },
+    "similars": {
+      "0": "доказательство"
+    }
+  },
+
+  {
+    "id": "214",
+    "name": "аргументировать",
+    "definition": "см. доказывать"
+  },
+
+  {
+    "id": "215",
+    "name": "Аред",
+    "definition": "[старый брюзгач, кащей, скряга (Даль)] см. скупой"
+  },
+
+  {
+    "id": "216",
+    "name": "Арена",
+    "definition": "Театр войны. Выступить на широкую арену жизни. См. место",
+    "synonyms": {
+      "0": "поприще",
+      "1": "ристалище",
+      "2": "поле",
+      "3": "циклодром",
+      "4": "ипподром",
+      "5": "аэродром",
+      "6": "трек"
+    }
+  },
+
+  {
+    "id": "217",
+    "name": "арендовать",
+    "definition": "см. снимать"
+  },
+
+  {
+    "id": "218",
+    "name": "Ареопаг",
+    "definition": "Ср. <Суд>. См. суд",
+    "synonyms": {
+      "0": "судилище",
+      "1": "коллегия",
+      "2": "синедрион",
+      "3": "синклит",
+      "4": "присутствие"
+    },
+    "similars": {
+      "0": "суд"
+    }
+  },
+
+  {
+    "id": "219",
+    "name": "Арестант",
+    "synonyms": {
+      "0": "колодник",
+      "1": "узник",
+      "2": "заключенный"
+    }
+  },
+
+  {
+    "id": "220",
+    "name": "арестантская",
+    "definition": "см. острог, тюрьма"
+  },
+  {
+    "id": "221",
+    "name": "арестовать",
+    "definition": "см. заключать"
+  },
+
+  {
+    "id": "222",
+    "name": "аржаны",
+    "definition": "[фр. argent деньги] см. деньги"
+  },
+
+  {
+    "id": "223",
+    "name": "ариаднина нить",
+    "definition": "см. руководитель"
+  },
+
+  {
+    "id": "224",
+    "name": "аристарх",
+    "definition": "[по имени Аристарха Самофракийского, александрийского грамматика, подвергшего строгому разбору сочинения греческих поэтов, особенно Гомера (ок. 170 г. до н. э.)] см. критик"
+  },
+
+  {
+    "id": "225",
+    "name": "Аристид",
+    "definition": "[по имени государственного деятеля Древней Греции, противника Фемистокла; был прозван справедливым] см. честный"
+  },
+
+  {
+    "id": "226",
+    "name": "Аристократ",
+    "definition": "Рыцарь, джентльмен. См. дворянин || корчить из себя аристократа",
+    "synonyms": {
+      "0": "вельможа",
+      "1": "магнат",
+      "2": "гранд",
+      "3": "патриций",
+      "4": "дворянин",
+      "5": "рыцарь",
+      "6": "джентльмен"
+    }
+  },
+
+  {
+    "id": "227",
+    "name": "Аристократический",
+    "definition": "Прот. <Низменный>. Аристократическая гордость. Ср. <Благородный>. См. благородный, знатный",
+    "synonyms": {
+      "0": "рыцарский",
+      "1": "достойный",
+      "2": "доблестный",
+      "3": "джентльменский",
+      "4": "благородный"
+    },
+    "antonyms": {
+      "0": "низменный"
+    },
+    "similars": {
+      "0": "благородный"
+    }
+  },
+
+  {
+    "id": "228",
+    "name": "Аристократия",
+    "definition": ": хайлайф). Родовая аристократия, денежная аристократия; аристократия ума, таланта. Прот. <Чернь>. Ср. <Знать>. См. знать || денежная аристократия",
+    "synonyms": {
+      "0": "знать",
+      "1": "высшее общество",
+      "2": "свет (большой)",
+      "3": "бомонд (beau-monde)",
+      "4": "high life (чит",
+      "5": "свет",
+      "6": "бомонд",
+      "7": "хай-лайф"
+    },
+    "antonyms": {
+      "0": "чернь"
+    },
+    "similars": {
+      "0": "знать"
+    }
+  },
+
+  {
+    "id": "229",
+    "name": "аристократствовать",
+    "definition": "см. важничать",
+    "synonyms": {
+      "0": "важничать",
+      "1": "величаться",
+      "2": "куражиться",
+      "3": "пыжиться",
+      "4": "бояриться",
+      "5": "топорщиться",
+      "6": "тщеславиться",
+      "7": "модничать",
+      "8": "франтить",
+      "9": "щеголять",
+      "10": "зазнаваться",
+      "11": "вздернуть нос",
+      "12": "гордиться",
+      "13": "загордиться",
+      "14": "спесиветь",
+      "15": "заспесивиться",
+      "16": "чваниться",
+      "17": "зачваниться",
+      "18": "корчить из себя важную особу",
+      "19": "пускать пыль в глаза",
+      "20": "принимать важный вид",
+      "21": "форсить",
+      "22": "трещать"
+    },
+    "similars": {
+      "0": "рисоваться",
+      "1": "гордиться"
+    }
+  },
+
+  {
+    "id": "230",
+    "name": "ария",
+    "definition": "см. песнь"
+  },
+
+  {
+    "id": "231",
+    "name": "Арлекин",
+    "definition": "см. шут"
+  },
+
+  {
+    "id": "232",
+    "name": "арматура",
+    "definition": "см. обстановка",
+    "synonyms": {
+      "0": "обстановка",
+      "1": "имущество",
+      "2": "обзаведение",
+      "3": "оборудование",
+      "4": "снаряжение",
+      "5": "убранство",
+      "6": "утварь",
+      "7": "движимость",
+      "8": "рухлядь",
+      "9": "скарб",
+      "10": "хозяйство",
+      "11": "мебель",
+      "12": "сбруя",
+      "13": "сервиз",
+      "14": "снаряды",
+      "15": "припасы",
+      "16": "снасти",
+      "17": "инвентарь",
+      "18": "амуниция",
+      "19": "аксессуары",
+      "20": "принадлежности",
+      "21": "реквизиты",
+      "22": "атрибуты",
+      "23": "вооружение",
+      "24": "аппарат"
+    },
+    "similars": {
+      "0": "имущество",
+      "1": "коллекция",
+      "2": "положение"
+    }
+  },
+
+  {
+    "id": "233",
+    "name": "армеец",
+    "definition": "см. воин",
+    "synonyms": {
+      "0": "армейщина"
+    }
+  },
+
+  {
+    "id": "234",
+    "name": "Армида",
+    "definition": "см. красивый"
+  },
+
+  {
+    "id": "235",
+    "name": "Армия",
+    "definition": "ч. полчище), сонм, воинство, сонмище. Регулярная армия. См. войско",
+    "synonyms": {
+      "0": "войско",
+      "1": "рать",
+      "2": "дружина",
+      "3": "полчища (ед",
+      "4": "полчище",
+      "5": "сонм",
+      "6": "воинство",
+      "7": "сонмище"
+    }
+  },
+
+  {
+    "id": "236",
+    "name": "аромат",
+    "definition": "см. благовоние, запах, качество",
+    "synonyms": {
+      "0": "благовоние",
+      "1": "благоухание",
+      "2": "запах",
+      "3": "дух"
+    },
+    "antonyms": {
+      "0": "зловоние"
+    },
+    "similars": {
+      "0": "запах"
+    }
+  },
+
+  {
+    "id": "237",
+    "name": "арсенал",
+    "definition": "см. запас, помещение"
+  },
+  {
+    "id": "238",
+    "name": "Артачиться",
+    "definition": "Ср. <Упрямиться>. Прот. <Уступать>. \"Ему хоть кол на голове теши -- стоит на своем\". Тург. \"Всю семью перепугал, да еще фордыбачится. Ежели мы станем фордыбачить, да не захотим по расписанию жить, то нас за это в кутузку\". Салт. См. упрямиться",
+    "synonyms": {
+      "0": "упрямиться",
+      "1": "упорствовать",
+      "2": "хорохориться",
+      "3": "настаивать (стоять) на своем",
+      "4": "ерепениться",
+      "5": "щетиниться",
+      "6": "упираться",
+      "7": "куражиться",
+      "8": "фордыбачить(ся)",
+      "9": "настаивать на своем",
+      "10": "фордыбачиться"
+    },
+    "antonyms": {
+      "0": "give in"
+    },
+    "similars": {
+      "0": "be stubborn"
+    }
+  },
+
+  {
+    "id": "239",
+    "name": "artel",
+    "definition": "see society, herd"
+  },
+  {
+    "id": "240",
+    "name": "artel",
+    "definition": "see general"
+  },
+
+  {
+    "id": "241",
+    "name": "artel worker",
+    "definition": "[a kind of foreman, to look after the artel workers (Dal, artel)] see servant"
+  },
+
+  {
+    "id": "242",
+    "name": "artilleryman",
+    "definition": "see warrior"
+  },
+
+  {
+    "id": "243",
+    "name": "artillery",
+    "definition": "see army"
+  },
+  {
+    "id": "244",
+    "name": "artist",
+    "definition": "see actor, virtuoso, expert, musician, rogue, artist",
+    "synonyms": {
+      "0": "actor",
+      "1": "actress (female)",
+      "2": "actor",
+      "3": "comedian",
+      "4": "buffoon",
+      "5": "guest performer",
+      "6": "ingenue",
+      "7": "first lover",
+      "8": "comedian",
+      "9": "tragedian",
+      "10": "reasoner",
+      "11": "extra",
+      "12": "person involved",
+      "13": "clown",
+      "14": "gymnast",
+      "15": "acrobat",
+      "16": "connoisseur",
+      "17": "famous woman",
+      "18": "authority",
+      "19": "dock",
+      "20": "old",
+      "21": "master",
+      "22": "specialist",
+      "23": "authority figure",
+      "24": "competent person",
+      "25": "knowledgeable person",
+      "26": "Professor",
+      "27": "expert",
+      "28": "virtuoso",
+      "29": "maestro",
+      "30": "artificer",
+      "31": "know-it-all",
+      "32": "know-it-all",
+      "33": "expert"
+    },
+    "similars": {
+      "0": "actor",
+      "1": "experienced"
+    }
+  },
+
+  {
+    "id": "245",
+    "name": "harper",
+    "definition": "see musician"
+  },
+
+  {
+    "id": "246",
+    "name": "archaic",
+    "definition": "see old"
+  },
+
+  {
+    "id": "247",
+    "name": "archangel",
+    "definition": "[gendarme, policeman (Ushakov)] see police; angel"
+  },
+
+  {
+    "id": "248",
+    "name": "Arkharovets",
+    "definition": "[detective, agent of Arkharov, Moscow chief of police, and then governor at the end of the 18th century. (Ushakov)] see police"
+  },
+
+  {
+    "id": "249",
+    "name": "archaeological",
+    "definition": "see old"
+  },
+  {
+    "id": "250",
+    "name": "arch-",
+    "definition": "see main"
+  },
+
+  {
+    "id": "251",
+    "name": "archive",
+    "definition": "|| archive"
+  },
+
+  {
+    "id": "252",
+    "name": "archbishop",
+    "definition": "see clergy",
+    "synonyms": {
+      "0": "bishop"
+    }
+  },
+
+  {
+    "id": "253",
+    "name": "bishop's cream",
+    "definition": "see drinks"
+  },
+
+  {
+    "id": "254",
+    "name": "archimandrite",
+    "definition": "see clergy"
+  },
+
+  {
+    "id": "255",
+    "name": "archplut",
+    "definition": "see rogue"
+  },
+
+  {
+    "id": "256",
+    "name": "architecture",
+    "definition": "see art"
+  },
+
+  {
+    "id": "257",
+    "name": "arshin",
+    "definition": "|| like swallowing a yardstick"
+  },
+
+  {
+    "id": "258",
+    "name": "rearguard",
+    "definition": "see army"
+  },
+
+  {
+    "id": "259",
+    "name": "ascetic",
+    "definition": "see ascetic"
+  },
+  {
+    "id": "260",
+    "name": "graduate student",
+    "definition": "see wait"
+  },
+
+  {
+    "id": "261",
+    "name": "allocate",
+    "definition": "see define"
+  },
+  {
+    "id": "262",
+    "name": "Range",
+    "definition": "Assortment of goods. The collection of postmarks. Set of cufflinks. Wed. <Collection>. See stock, collection, circle",
+    "synonyms": {
+      "0": "collection",
+      "1": "kit",
+      "2": "set",
+      "3": "device",
+      "4": "headset",
+      "5": "headset"
+    },
+    "similars": {
+      "0": "collection"
+    }
+  },
+  {
+    "id": "263",
+    "name": "association",
+    "definition": "see society, communication"
+  },
+  {
+    "id": "265",
+    "name": "Astronomer",
+    "synonyms": {
+      "0": "astrologer",
+      "1": "astrologer"
+    }
+  },
+  {
+    "id": "266",
+    "name": "attack",
+    "definition": "see raid"
+  },
+  {
+    "id": "267",
+    "name": "and",
+    "definition": "mass media"
+  },
+  {
+    "id": "268",
+    "name": "Attack",
+    "definition": "see attack",
+    "synonyms": {
+      "0": "invade",
+      "1": "interfere",
+      "2": "creep in",
+      "3": "break in",
+      "4": "break in",
+      "5": "climb",
+      "6": "wade",
+      "7": "permeate",
+      "8": "crash into",
+      "9": "misfortune",
+      "10": "come"
+    },
+    "similars": {
+      "0": "enter",
+      "1": "pass",
+      "2": "permeate",
+      "3": "interfere"
+    }
+  },
+  {
+    "id": "269",
+    "name": "Ataman",
+    "definition": "Wed. <Chief>. Ataman of all Cossack troops. Be patient, Cossack, you will become an ataman (last). See chief, ruler",
+    "synonyms": {
+      "0": "leader",
+      "1": "boss",
+      "2": "chapter",
+      "3": "leader",
+      "4": "leader",
+      "5": "foreman",
+      "6": "headman"
+    },
+    "similars": {
+      "0": "boss"
+    }
+  },
+  {
+    "id": "270",
+    "name": "atande!",
+    "definition": "[fr. attendez wait! look! (threat)] see refusal"
+  },
+  {
+    "id": "271",
+    "name": "atlas",
+    "definition": "see book"
+  },
+  {
+    "id": "272",
+    "name": "satiny",
+    "definition": "see flat"
+  },
+  {
+    "id": "273",
+    "name": "athlete",
+    "definition": "see hero",
+    "synonyms": {
+      "0": "hero",
+      "1": "Hercules",
+      "2": "hero",
+      "3": "big guy",
+      "4": "strongman",
+      "5": "Samson"
+    },
+    "similars": {
+      "0": "giant",
+      "1": "strong"
+    }
+  },
+  {
+    "id": "274",
+    "name": "Atmosphere",
+    "definition": "See air, circle",
+    "synonyms": {
+      "0": "air",
+      "1": "circle",
+      "2": "circle",
+      "3": "society",
+      "4": "sphere",
+      "5": "Wednesday",
+      "6": "element",
+      "7": "set",
+      "8": "contingent",
+      "9": "world",
+      "10": "totality",
+      "11": "compound",
+      "12": "state",
+      "13": "staff",
+      "14": "kingdom",
+      "15": "department",
+      "16": "region",
+      "17": "ranks",
+      "18": "personnel",
+      "19": "choice",
+      "20": "range",
+      "21": "collection"
+    },
+    "similars": {
+      "0": "society",
+      "1": "collection"
+    }
+  },
+  {
+    "id": "275",
+    "name": "atom",
+    "definition": "see a little"
+  },
+  {
+    "id": "276",
+    "name": "Attribute",
+    "definition": "When depicting pagan gods, lightning serves as an attribute of Jupiter, the lyre - of Apollo, and the owl - of Minerva. See affiliation",
+    "synonyms": {
+      "0": "belonging",
+      "1": "property"
+    }
+  },
+  {
+    "id": "277",
+    "name": "attributes",
+    "definition": "see the situation"
+  },
+  {
+    "id": "278",
+    "name": "atrophy",
+    "definition": "see spoil, destroy"
+  },
+  {
+    "id": "279",
+    "name": "atrophy",
+    "definition": "see decline"
+  },
+  {
+    "id": "280",
+    "name": "Certificate",
+    "definition": "Wed. <Testimony>. “Here is my certificate from the teachers.” Wing. Certificate of maturity. Certificate of poverty. Wolf certificate (ticket, passport). <He took out a patent for his invention>. See evidence || wolf certificate",
+    "synonyms": {
+      "0": "certificate",
+      "1": "ticket",
+      "2": "certificate",
+      "3": "patent"
+    },
+    "similars": {
+      "0": "certificate"
+    }
+  },
+  {
+    "id": "281",
+    "name": "certify",
+    "definition": "see respond, testify"
+  },
+  {
+    "id": "282",
+    "name": "attic salt",
+    "definition": "[subtle, refined wit (named after the ancient Greek region of Attica, famous for its rich and subtle culture (Ushakov)] see wit"
+  },
+  {
+    "id": "283",
+    "name": "attack",
+    "definition": "[shout atu, poison the hare (Dal, atu)] see attack"
+  },
+  {
+    "id": "284",
+    "name": "audience",
+    "definition": "see room"
+  },
+  {
+    "id": "285",
+    "name": "aul",
+    "definition": "see location"
+  },
+  {
+    "id": "286",
+    "name": "ow! whose money",
+    "definition": "see disappear"
+  },
+  {
+    "id": "287",
+    "name": "scam",
+    "definition": "see enterprise, transaction"
+  },
+  {
+    "id": "288",
+    "name": "swindler",
+    "definition": "see businessman"
+  },
+  {
+    "id": "289",
+    "name": "Athens evenings",
+    "definition": "[unbridled orgies, revelry (Ushakov)] see feast"
+  },
+  {
+    "id": "290",
+    "name": "poster",
+    "definition": "see ad"
+  },
+  {
+    "id": "291",
+    "name": "advertise",
+    "definition": "see discover, announce"
+  },
+  {
+    "id": "292",
+    "name": "Aphorism",
+    "definition": "Wed. <Saying>. Aphorisms of Hippocrates. “I decided to make apothegms from our alphabet.” Fluff. See the saying",
+    "synonyms": {
+      "0": "saying",
+      "1": "apothegm",
+      "2": "maxim",
+      "3": "gnome",
+      "4": "position",
+      "5": "judgment",
+      "6": "thought"
+    },
+    "similars": {
+      "0": "saying"
+    }
+  },
+  {
+    "id": "293",
+    "name": "affront",
+    "definition": "[personal insult, insult to honor, dishonor (Dahl)] see dishonor, insult",
+    "synonyms": {
+      "0": "ignominy",
+      "1": "dishonor",
+      "2": "vilification",
+      "3": "a shame",
+      "4": "spot",
+      "5": "reproach",
+      "6": "trampling",
+      "7": "humiliation",
+      "8": "humiliation"
+    },
+    "antonyms": {
+      "0": "glory"
+    },
+    "similars": {
+      "0": "resentment"
+    }
+  },
+  {
+    "id": "294",
+    "name": "affect",
+    "definition": "see excitement, ardor"
+  },
+  {
+    "id": "295",
+    "name": "affectation",
+    "definition": "see sensitive"
+  },
+  {
+    "id": "296",
+    "name": "ahan",
+    "definition": "[type of fixed net for catching red fish along the seashore (Dal)] see nets"
+  },
+  {
+    "id": "297",
+    "name": "Achilles' heel",
+    "definition": "see disadvantage",
+    "synonyms": {
+      "0": "Achilles heel"
+    }
+  },
+  {
+    "id": "298",
+    "name": "nonsense",
+    "definition": "see nonsense, absurdity || talk nonsense",
+    "synonyms": {
+      "0": "absurdity",
+      "1": "absurdity",
+      "2": "absurd",
+      "3": "nonsense",
+      "4": "rubbish",
+      "5": "nonsense",
+      "6": "nonsense",
+      "7": "game",
+      "8": "rubbish",
+      "9": "nonsense",
+      "10": "incongruity",
+      "11": "nonsense",
+      "12": "slaver",
+      "13": "roundabout",
+      "14": "nonsense",
+      "15": "nonsense",
+      "16": "abracadabra",
+      "17": "soft-boiled boots"
+    }
+  },
+  {
+    "id": "299",
+    "name": "gasp",
+    "definition": "see hit, be surprised"
+  },
+  {
+    "id": "300",
+    "name": "ahun",
+    "definition": "[Muslim theologian, scholar, more revered mullah; Muslim family dean, who has jurisdiction over several parishes (Dal)] see clergy"
+  },
+  {
+    "id": "301",
+    "name": "aerodrome",
+    "definition": "see arena"
+  },
+  {
+    "id": "302",
+    "name": "woman",
+    "definition": "see wife, woman, cowardly || boy-woman",
+    "synonyms": {
+      "0": "woman",
+      "1": "girl",
+      "2": "teenager",
+      "3": "young woman",
+      "4": "maiden",
+      "5": "youth",
+      "6": "girl",
+      "7": "Virgo",
+      "8": "young lady",
+      "9": "lady",
+      "10": "matron",
+      "11": "old woman"
+    }
+  },
+  {
+    "id": "303",
+    "name": "grandma",
+    "definition": "|| midwife"
+  },
+  {
+    "id": "304",
+    "name": "grandmother",
+    "definition": "see midwife"
+  },
+  {
+    "id": "305",
+    "name": "grandma said in two",
+    "definition": "see dubious"
+  },
+  {
+    "id": "306",
+    "name": "Baggage",
+    "definition": "Wed. <Burden, Property>. See burden, property, burden",
+    "synonyms": {
+      "0": "things",
+      "1": "luggage",
+      "2": "luggage",
+      "3": "luggage",
+      "4": "burden",
+      "5": "cargo",
+      "6": "freight"
+    }
+  }
+]

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sm">SM</string>
+    <string name="sign_in"><u>Войдите</u></string>
+    <string name="sign_up"><u>Зарегистрируйтесь</u></string>
+    <string name="forgot_text"><u>Забыли пароль?</u></string>
+</resources>

@@ -1,0 +1,108 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SynomFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.widget.Button
+            android:id="@+id/btnStart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/start_button"
+            android:textColor="@android:color/white" />
+
+        <ProgressBar
+            android:id="@+id/timeSlider"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btnStart"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:max="30"
+            android:progress="30" />
+
+        <TextView
+            android:id="@+id/timerText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/timeSlider"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="144dp"
+            android:layout_marginTop="11dp"
+            android:layout_marginEnd="144dp"
+            android:text="30s"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/randomText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/scoreText"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="11dp"
+            android:layout_centerHorizontal="true"
+            android:text="Готовы?"
+            android:background="@drawable/black_border"
+            android:textAlignment="center"
+            android:textSize="28sp" />
+
+        <TextView
+            android:id="@+id/scoreText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/option1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="48dp"
+            android:text="0"
+            android:textAlignment="center"
+            android:textSize="30sp" />
+
+        <android.widget.Button
+            android:id="@+id/option1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/option2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/button_options_style_enable"
+            android:text="Да"
+            android:textColor="@color/black"
+            android:enabled="false" />
+
+        <android.widget.Button
+            android:id="@+id/option2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/option3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/button_options_style_enable"
+            android:text="Нет"
+            android:textColor="@color/black"
+            android:enabled="false" />
+
+        <android.widget.Button
+            android:id="@+id/option3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="74dp"
+            android:background="@drawable/button_options_style_enable"
+            android:text="Не знаю"
+            android:textColor="@color/black"
+            android:enabled="false" />
+
+    </RelativeLayout>
+
+</FrameLayout>
